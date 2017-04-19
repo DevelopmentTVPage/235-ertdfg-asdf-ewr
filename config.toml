@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "qwexda"
+baseURL = "https:\/\/ertdfg.asdf.ewr"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758823"
+subfolder = ""
